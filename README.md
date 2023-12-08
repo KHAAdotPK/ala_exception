@@ -2,4 +2,4 @@
 A C++ exception class
 
 ### License
-This project is licensed under a license, the copy of which can be found in file - see the file named LICENSE for details.
+This project is governed by a license, the details of which can be located in the accompanying file named 'LICENSE.' Please refer to this file for comprehensive information.
